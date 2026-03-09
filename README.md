@@ -5,7 +5,7 @@ It represents a sample website for an AI learning center called "Learn Logic AI"
 
 ## 🌐 Live Website
 
-https://yourusername.github.io/learn-logic-ai-website/
+https://ashiquealin99-hue.github.io/learn-logic-ai-website/
 
 ## Features
 
