@@ -3,6 +3,10 @@
 This project is a multi-page educational institute website developed using HTML and CSS.  
 It represents a sample website for an AI learning center called "Learn Logic AI".
 
+## 🌐 Live Website
+
+https://yourusername.github.io/learn-logic-ai-website/
+
 ## Features
 
 - Multi-page website structure
