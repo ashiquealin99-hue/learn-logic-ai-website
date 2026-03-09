@@ -34,6 +34,3 @@ It represents a sample website for an AI learning center called "Learn Logic AI"
 
 This project was created as a practice project to improve web development skills, including layout design, form creation, navigation systems, and multi-page website structure.
 
-## Author
-
-Student Web Development Practice Project
